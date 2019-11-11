@@ -14,4 +14,4 @@ Try your conversions:
 The sum of Euler's totient function φ(x) over the first twenty-two integers is 150.
 150 is a Harshad number and an abundant number.
 
-<convert-numbers :initialValue="150"/>
+<convert-numbers :initialValue="150" />

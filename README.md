@@ -6,10 +6,9 @@ In any standard positional numeral system, a number is conventionally written as
 
 Try your conversions:
 
-<convert-numbers :initialValue="50"/>
+<convert-numbers :initialValue="50" />
 
 # 150 is also a great number
-
 
 150 is the sum of eight consecutive primes (7 + 11 + 13 + 17 + 19 + 23 + 29 + 31). Given 150, the Mertens function returns 0.
 The sum of Euler's totient function φ(x) over the first twenty-two integers is 150.

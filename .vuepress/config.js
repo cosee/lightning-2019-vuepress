@@ -12,6 +12,10 @@ module.exports = {
         nav: [
             { text: 'Google', link: 'https://google.com' }
         ]
-    }
+    },
+    // Configuration for github-pages deployment
+    base: process.env.BASE_URL || '',
+    dest: 'docs',
+
 };
 

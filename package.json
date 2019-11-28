@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build"
+    "build": "BASE_URL='lightning-2019-vuepress' vuepress build"
   },
   "devDependencies": {
     "vuepress": "^1.2.0"

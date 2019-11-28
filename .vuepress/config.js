@@ -4,12 +4,14 @@ module.exports = {
     themeConfig: {
         logo: '/logo.svg',
         sidebar: [
-            '/',
             '/some-more.md',
-            '/folder/third-file.md'
+            '/folder/third-file.md',
+            '/converting-numbers.md',
+            '/frontmatter-demo.md'
         ],
         nav: [
             { text: 'Google', link: 'https://google.com' }
         ]
     }
-}
+};
+

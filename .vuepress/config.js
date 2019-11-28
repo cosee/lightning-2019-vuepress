@@ -11,11 +11,14 @@ module.exports = {
         ],
         nav: [
             { text: 'Google', link: 'https://google.com' }
-        ]
+        ],
+
+        // Github Repository
+        repo: 'cosee/lightning-2019-vuepress'
+
     },
     // Configuration for github-pages deployment
     base: process.env.BASE_URL || '',
-    dest: 'docs',
-
+    dest: 'docs'
 };
 
